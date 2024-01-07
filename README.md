@@ -1,4 +1,1 @@
-- [Demo]()
-
-
 ![](screenshots/mapty.png)
